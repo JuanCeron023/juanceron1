@@ -5,8 +5,8 @@
 </head>
 <body style="background-color:powderblue;">
 
-<h1>ejemplo 30</h1>
-<p>ejemplo 30</p>
+<h1>ejemplo 3</h1>
+<p>ejemplo 3</p>
 
 </body>
 </html>
